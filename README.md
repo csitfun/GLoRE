@@ -18,8 +18,8 @@ Datasets included:
 
 We are working on incorporating more logical reasoning datasets!
 
-- [] [RobustLR](https://github.com/INK-USC/RobustLR)
-- [] [LogicInduction]()
+- [ ] [RobustLR](https://github.com/INK-USC/RobustLR)
+- [ ] [LogicInduction]()
 
 
 This repository is compatible with the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `Data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
