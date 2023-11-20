@@ -1,14 +1,28 @@
 # GLoRE
-a benchmark for evaluating the logical reasoning of LLMs
+### a benchmark for evaluating the logical reasoning of LLMs
 
 For more information, please refer to our [Arxiv preprint](https://arxiv.org/abs/2310.09107)
 
+Datasets included:
+* [LogiQA](https://github.com/csitfun/LogiQA2.0)
+* [ReClor](https://whyu.me/reclor/)
+* [FOLIO](https://github.com/Yale-LILY/FOLIO)
+* [ConTRoL](https://github.com/csitfun/ConTRoL-dataset)
+* [AR-LSAT](https://github.com/zhongwanjun/AR-LSAT)
+* [FRACAS](https://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml)
+* [HELP](https://github.com/verypluming/HELP)
+* [ProofWriter](https://allenai.org/data/proofwriter)
+* [RuleTaker](https://allenai.org/data/ruletaker)
+* [TaxiNLI](https://github.com/microsoft/TaxiNLI)
+* [NaN-NLI](https://github.com/joey234/nan-nli)
+
 We are working on incorporating more logical reasoning datasets!
 
-[RobustLR](https://github.com/INK-USC/RobustLR)
+- [] [RobustLR](https://github.com/INK-USC/RobustLR)
+- [] [LogicInduction]()
 
 
-This repository is based on the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `Data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
+This repository is compatible with the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `Data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
 
 eg. `evals/evals/registry/data/logiqa/logiqa.jsonl`, `evals/evals/registry/evals/logiqa.yaml`
 
