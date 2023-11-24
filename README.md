@@ -35,7 +35,7 @@ eg. `evals/evals/registry/data/logiqa/logiqa.jsonl`, `evals/evals/registry/evals
 
 `pip install evals`
 
-## Eval OpenAI Models
+## Evaluating OpenAI Models
 
 1. export openai api key to the environment
 
@@ -46,6 +46,9 @@ eg. `evals/evals/registry/data/logiqa/logiqa.jsonl`, `evals/evals/registry/evals
 ``oaieval <model_name> <data_name>``
 
 eg. `oaieval gpt-3.5-turbo logiqa`
+
+## Evaluating Huggingface Models
+``python inference.py``
 
 ## Contribute Your Own Dataset
 
