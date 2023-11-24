@@ -17,7 +17,7 @@ Datasets included:
 * [RuleTaker](https://allenai.org/data/ruletaker)
 * [TaxiNLI](https://github.com/microsoft/TaxiNLI)
 * [NaN-NLI](https://github.com/joey234/nan-nli)
-* [RobustLR](https://github.com/INK-USC/RobustLR) (Lager than Github accepts. GLoRe formatted RobustLR available at: [Google Drive](https://drive.google.com/file/d/1GYSItymQzlUoE4_CmavAbgl7n1Eow9L1/view?usp=sharing))
+* [RobustLR](https://github.com/INK-USC/RobustLR) (First 1k pieces included. The 45k full version available at [Google Drive](https://drive.google.com/file/d/1GYSItymQzlUoE4_CmavAbgl7n1Eow9L1/view?usp=sharing))
 * [LogicInduction](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/logical_deduction)
 * [ConCeptualCombinations](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/conceptual_combinations)
 
@@ -49,7 +49,7 @@ eg. `oaieval gpt-3.5-turbo logiqa`
 
 ## Contribute Your Own Dataset
 
-We welcome your datasets incorporated in GLoRe. 
+We welcome your datasets incorporated in GLoRe.
 
 Please fill free to drop us issues (in the repo) or emails (address provided in the paper) to let us know.
 
