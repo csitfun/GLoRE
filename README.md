@@ -22,7 +22,9 @@ Datasets included:
 * [ConCeptualCombinations](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/conceptual_combinations)
 
 We are working on incorporating more logical reasoning datasets!
-
+- [x] [RobustLR](https://github.com/INK-USC/RobustLR)
+- [x] [LogicInduction](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/logical_deduction)
+- [x] [ConCeptualCombinations](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/conceptual_combinations)
 - [ ] [PrOntoQA](https://github.com/asaparov/prontoqa)
 
 This repository is compatible with the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `Data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
