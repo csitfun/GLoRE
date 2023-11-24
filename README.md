@@ -27,15 +27,17 @@ We are working on incorporating more logical reasoning datasets!
 - [x] [ConCeptualCombinations](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/conceptual_combinations)
 - [ ] [PrOntoQA](https://github.com/asaparov/prontoqa)
 
-This repository is compatible with the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
 
-eg. `evals/evals/registry/data/logiqa/logiqa.jsonl`, `evals/evals/registry/evals/logiqa.yaml`
 
 ## Setting-Up
 
 `pip install evals`
 
 ## Evaluating OpenAI Models
+
+This repository is compatible with the [OpenAI Eval library](https://github.com/openai/evals). Please download the Eval package first, and put the contents in this repository `data` and `evals` into `evals/evals/registry/data/<name_of_your_eval/` and `evals/evals/registry/evals/`, respectively.
+
+eg. `evals/evals/registry/data/logiqa/logiqa.jsonl`, `evals/evals/registry/evals/logiqa.yaml`
 
 1. export openai api key to the environment
 
