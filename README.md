@@ -17,7 +17,7 @@ Datasets included:
 * [RuleTaker](https://allenai.org/data/ruletaker)
 * [TaxiNLI](https://github.com/microsoft/TaxiNLI)
 * [NaN-NLI](https://github.com/joey234/nan-nli)
-* [RobustLR](https://github.com/INK-USC/RobustLR) (First 1k pieces included. The 45185-piece full version available at: [Google Drive](https://drive.google.com/file/d/1GYSItymQzlUoE4_CmavAbgl7n1Eow9L1/view?usp=sharing))
+* [RobustLR](https://github.com/INK-USC/RobustLR) (First 1k pieces included. The 45k full version available at [Google Drive](https://drive.google.com/file/d/1GYSItymQzlUoE4_CmavAbgl7n1Eow9L1/view?usp=sharing))
 * [LogicInduction](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/logical_deduction)
 * [ConCeptualCombinations](https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/conceptual_combinations)
 
